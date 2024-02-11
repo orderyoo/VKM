@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">VKM</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+
+    <string name="playlist">Плейлист</string>
+    <string name="playlists">Плейлисты</string>
+    <string name="show_all">показать всё</string>
+
+</resources>
